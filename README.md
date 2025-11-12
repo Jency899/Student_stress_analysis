@@ -117,9 +117,5 @@ In the future, incorporating **biometric**, **behavioral**, or **social media** 
 
 ---
 
-## 🧭 How to Run the Project
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/<your-username>/Student-Stress-Analysis.git
-   cd Student-Stress-Analysis
+
